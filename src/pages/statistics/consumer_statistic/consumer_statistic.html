@@ -1,0 +1,9 @@
+<ion-content>
+    <ion-item>
+        <ion-label>Haushalt auswählen</ion-label>
+        <ion-select [(ngModel)]="selectedHouseHold" (ngModelChange)="setPieChart()">
+            <ion-option [value]="household" *ngFor="let household of households">{{household.name}}</ion-option>
+        </ion-select>
+    </ion-item>
+    <canvas #piechart></canvas>
+</ion-content>

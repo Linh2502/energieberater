@@ -1,0 +1,1112 @@
+[
+    {
+        "name": "Ein- oder Zweifamilienhaus",
+        "waterType": [
+            {
+                "name": "ohne Strom",
+                "persons": [
+                    {
+                        "number": 1,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 1300,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 1700,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 2000,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 2500,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 3000,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 4000,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 2100,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 2500,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 3000,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 3200,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 3600,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 4400,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 3,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 2600,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 3000,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 3900,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 4300,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 5200,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 4,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 2900,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 3800,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 4200,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 4900,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 5900,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 5,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 4000,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 4800,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 5400,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 6000,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 7500,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "mit Strom",
+                "persons": [
+                    {
+                        "number": 1,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 1500,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 2000,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 2500,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 3000,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 3600,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 5000,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 2500,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 3000,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 4000,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 4500,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 5800,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 3,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 3000,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 3800,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 4200,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 4900,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 5700,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 7300,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 4,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 4000,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 4800,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 5500,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 6300,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 8000,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 5,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 4200,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 5000,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 6000,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 7000,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 8000,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 10000,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mehrfamilienhaus",
+        "waterType": [
+            {
+                "name": "ohne Strom",
+                "persons": [
+                    {
+                        "number": 1,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 800,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 1000,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 1200,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 1500,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 1800,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 2200,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 1300,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 1600,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 2000,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 2200,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 2600,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 3100,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 3,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 1700,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 2000,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 2400,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 2800,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 3200,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 3900,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 4,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 1900,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 2400,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 2800,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 3200,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 3700,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 4500,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 5,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 2200,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 2800,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 4000,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 4800,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 5700,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "mit Strom",
+                "persons": [
+                    {
+                        "number": 1,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 1200,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 1500,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 1800,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 2000,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 2400,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 3000,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 2000,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 2500,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 2900,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 3100,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 4200,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 3,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 2600,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 3200,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 3700,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 4100,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 4700,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 5600,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 4,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 2800,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 4000,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 4600,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 5400,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 6500,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    },
+                    {
+                        "number": 5,
+                        "class": [
+                            {
+                                "grade": "A",
+                                "maxNumber": 3500,
+                                "color": "#ffffff",
+                                "background": "#197626",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "B",
+                                "maxNumber": 4400,
+                                "color": "#ffffff",
+                                "background": "#1E9A44",
+                                "summary": "Herzlichen Glückwunsch! Ihr angegebener Jahresverbrauch liegt unter dem durchschnittlichen Jahresverbrauch in Deutschland. Allerdings könnten immernoch Einsparpotenziale vorhanden sein. Versuchen Sie, diese zu analyiseren und zu optimieren."
+                            },
+                            {
+                                "grade": "C",
+                                "maxNumber": 5000,
+                                "color": "#ffffff",
+                                "background": "#F4C900",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "D",
+                                "maxNumber": 6000,
+                                "color": "#ffffff",
+                                "background": "#F8A720",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "E",
+                                "maxNumber": 7000,
+                                "color": "#ffffff",
+                                "background": "#E38315",
+                                "summary": "Ihr Verbrauch entspricht ungefähr dem durchschnittlichen Jahresverbrauch in Deutschland. Wahrscheinlich sind noch nicht alle Energiefresser gefunden. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "F",
+                                "maxNumber": 9000,
+                                "color": "#ffffff",
+                                "background": "#D8171C",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            },
+                            {
+                                "grade": "G",
+                                "maxNumber": 99999999999999999,
+                                "color": "#ffffff",
+                                "background": "#9C1710",
+                                "summary": "Sie geben für Ihren Stromverbrauch deutlich mehr Geld aus als andere deutsche Haushalte. Zögern Sie nicht und versuchen Sie die Energiefresser schnellstmöglich zu beseitigen. Nutzen Sie diese Applikation, um diese zu lokalisieren."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

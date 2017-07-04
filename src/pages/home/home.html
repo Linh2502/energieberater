@@ -1,0 +1,52 @@
+﻿<ion-header>
+  <ion-navbar>
+    <ion-title text-center>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid style="padding: 0">
+      <ion-row style="margin-bottom: 10px;">
+          <ion-col col-12 text-center class="custom-title">
+              <ion-col>
+                  <ion-icon name="game-controller-b">
+                      Gaming Center
+                  </ion-icon>
+              </ion-col>
+          </ion-col>
+          <ion-col col-12 text-center>
+              <ion-row>
+                  <ion-col col-4></ion-col>
+                  <ion-col col-4>
+                      <ion-icon name="bulb" ios="md-bulb" class="level-circle"></ion-icon>
+                      <div class="level">{{level.currentLevel}}</div>
+                  </ion-col>
+                  <ion-col col-4></ion-col>
+              </ion-row>
+          </ion-col>
+          <ion-col col-12>
+              <progress-bar [progress]="level?.currentPointsInPercent" [level]="level?.pointsForNextLevel" [points]="level?.currentPoints"></progress-bar>
+          </ion-col>
+      </ion-row>
+      <ion-row style="border-top: 1px solid #000000"></ion-row>
+      <ion-row>
+          <ion-col col-12 text-center class="custom-title">
+              <ion-col>
+                  <ion-icon name="trophy">
+                      Errungenschaften
+                  </ion-icon>
+              </ion-col>
+          </ion-col>
+          <ion-col col-12 text-center>
+              <ion-row *ngFor="let achievement of achievements" style="border-bottom: 1px solid black">
+                  <ion-col col-12>
+                      {{achievement.name}}{{achievement.current}}
+                  </ion-col>
+                  <ion-col col-12 style="font-size: 12px">
+                      Bisherige Anzahl - {{achievement.sum}}
+                  </ion-col>
+              </ion-row>
+          </ion-col>
+      </ion-row>
+  </ion-grid>
+</ion-content>

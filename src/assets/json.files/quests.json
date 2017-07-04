@@ -1,0 +1,84 @@
+[
+    {
+        "id": "quest_1",
+        "name": "Haushalt erfassen",
+        "difficulty": "leicht",
+        "description": "Gehen Sie in den Reiter Verbrauch und fügen Sie einen Haushalt hinzu.",
+        "points": 100,
+        "color": "darkgreen"
+    },
+    {
+        "id": "quest_2",
+        "name": "Strommessgerät ausleihen/kaufen",
+        "difficulty": "mittel",
+        "description": "Im Link können Sie herausfinden, wo Sie in Ihrer Nähe ein kostenloses Strommessgerät ausleihen. Alternativ können Sie das Gerät auch online und im Fachhandel erwerben.",
+        "links": "<a href='http://www.no-energy.de/html/ausleihen.php'>No-Energy Webseite</a>",
+        "points": 150,
+        "color": "gold"
+    },
+    {
+        "id": "quest_3",
+        "name": "Verbraucher erfassen",
+        "difficulty": "mittel",
+        "description": "Gehen Sie in den Reiter Verbrauch und fügen Sie einen Verbraucher hinzu.",
+        "points": 150,
+        "color": "gold"
+    },
+    {
+        "id": "quest_4",
+        "name": "Kühlgerät Langzeitmessung durchführen",
+        "difficulty": "schwer",
+        "description": "Der Verbrauch von Kühlgeräten kann nur durch Langzeitmessungen erfolgen, da diese den ganzen Tag in verschiedenen Zeitintervallen arbeiten. Nehmen Sie hierfür Ihr Strommessgerät und messen Sie das Kühlgerät über den Zeitraum von mindestens einer Woche. Rechnen Sie diesen Wert aufs Jahr hoch.",
+        "points": 300,
+        "color": "darkred"
+    },
+    {
+        "id": "quest_5",
+        "name": "Kühlschranktermometer ausleihen/kaufen und Temperatur regeln",
+        "difficulty": "mittel",
+        "description": "Passen Sie die Temperatur im Gerät Ihren Bedürfnissen an. Jedes Grad weniger spart viele kWh.",
+        "points": 150,
+        "color": "gold"
+    },
+    {
+        "id": "quest_6",
+        "name": "Statistik vergleichen und Potentiale entdecken",
+        "difficulty": "leicht",
+        "description": "Nachdem Sie alle Ihre Verbraucher erfasst haben, können Sie diese unter dem Reiter Statistik mit dem Standardhaushalt abgleichen. So sehen Sie Verbesserungspotentiale.",
+        "points": 100,
+        "color": "darkgreen"
+    },
+    {
+        "id": "quest_7",
+        "name": "einfache Stromspartipps von Lessons umsetzen",
+        "difficulty": "mittel",
+        "description": "Ein kleiner Tipp: Haben Sie bereits die Rubrik Lessons erkundet? Dort finden Sie nützliche Hinweise, um die Energieeffizienz Ihres Haushaltes zu optimieren.",
+        "points": 150,
+        "color": "gold"
+    },
+    {
+        "id": "quest_8",
+        "name": "Verbraucher vergleichen",
+        "difficulty": "mittel",
+        "description": "Nachdem Sie Ihre Potentiale entdeckt haben, können Sie nun Vorbereitungen für die weiteren Schritte ergreifen. Vergleichen Sie Ihre Geräte.",
+        "links": "<a href='http://www.ecotopten.de/'>EcoTopTen</a> oder <a href='https://www.gruenspar.de/'>Gruenspar</a>",
+        "points": 150,
+        "color": "gold"
+    },
+    {
+        "id": "quest_9",
+        "name": "Verbraucher ersetzen",
+        "difficulty": "schwer",
+        "description": "Nun können Sie auch tatsächlich handeln. Wechseln Sie Ihre Stromfresser aus.",
+        "points": 300,
+        "color": "darkred"
+    },
+    {
+        "id": "quest_10",
+        "name": "Stromtarif wechseln",
+        "difficulty": "schwer",
+        "description": "Wechseln Sie vom Grundversorger zu anderen preiswerteren Stromanbieter.",
+        "points": 300,
+        "color": "darkred"
+    }
+]

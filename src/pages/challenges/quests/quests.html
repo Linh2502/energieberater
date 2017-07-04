@@ -1,0 +1,31 @@
+﻿<ion-content>
+    <ion-list>
+        <ion-row *ngFor="let quest of quests; let i = index">
+            <button ion-item tappable (click)="openQuestDescription(quest)">
+                <ion-icon icon-only item-start name="checkmark" *ngIf="quest.completed"></ion-icon>
+                {{i+1}}. {{quest.name}}
+                <ion-icon icon-only item-end name="arrow-dropdown" *ngIf="!quest.isOpen"></ion-icon>
+                <ion-icon icon-only item-end name="arrow-dropup" *ngIf="quest.isOpen"></ion-icon>
+            </button>
+            <ion-col>
+                <button ion-item text-wrap *ngIf="quest.isOpen" >
+                    <ion-label>
+                        <div>{{quest.name}}</div>
+                        <br/>
+                        <div [ngStyle]="{'color': quest.color}">
+                            Schwierigkeitsgrad: {{quest.difficulty}} - {{quest.points}}
+                        </div>
+                        <div>{{quest.description}}</div>
+                    </ion-label>
+                    <ion-checkbox color="{{quest.color}}" [(ngModel)]="quest.completed" (ionChange)="setQuestState(quest, i)"></ion-checkbox>
+                </button>
+                <ion-item text-wrap *ngIf="quest.isOpen && quest.links">
+                    <ion-label>
+                        <div>Links:</div>
+                        <div [innerHtml]="quest.links"></div>
+                    </ion-label>
+                </ion-item>
+            </ion-col>
+        </ion-row>
+    </ion-list>
+</ion-content>

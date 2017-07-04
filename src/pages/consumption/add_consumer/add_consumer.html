@@ -1,0 +1,58 @@
+﻿<ion-header>
+    <ion-navbar>
+        <ion-title *ngIf="mode === 'create'">Verbraucher hinzufügen</ion-title>
+        <ion-title *ngIf="mode === 'edit'">Verbraucher bearbeiten</ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only tappable (click)="dismiss()">
+                <ion-icon name="close"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+<ion-content>
+    <form (ngSubmit)="submitForm()">
+        <ion-item>
+            <ion-label color="primary" floating>Name</ion-label>
+            <ion-input type="text" name="consumerName" [(ngModel)]="consumer.name"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label color="primary" floating>Kategorie</ion-label>
+            <ion-select [(ngModel)]="consumer.category" name="consumerCategory">
+                <ion-option value="Waschen und Trocknen">Waschen und Trocknen</ion-option>
+                <ion-option value="Spülen">Spülen</ion-option>
+                <ion-option value="Licht">Licht</ion-option>
+                <ion-option value="Sonstiges">Sonstiges</ion-option>
+                <ion-option value="Kochen">Kochen</ion-option>
+                <ion-option value="Kühl- und Gefriergeräte">Kühl- und Gefriergeräte</ion-option>
+                <ion-option value="Informationstechnik sowie TV und Audio">Informationstechnik sowie TV und Audio
+                </ion-option>
+            </ion-select>
+        </ion-item>
+        <ion-item *ngIf="!consumer.power || !consumer.consumptionPerDay">
+            <ion-label color="primary" floating>Jahresverbrauch in kWh</ion-label>
+            <ion-input type="number" name="consumerYearConsumption" [(ngModel)]="consumer.yearConsumption"
+                       (ngModelChange)="consumer.yearConsumption = convertToNumber($event)"></ion-input>
+        </ion-item>
+        <ion-item *ngIf="consumer.power && consumer.consumptionPerDay">
+            <ion-label color="primary" floating>Jahresverbrauch in kWh</ion-label>
+            <ion-input type="number" name="consumerYearConsumption" [(ngModel)]="consumer.yearConsumption"
+                       value="{{(consumer.power * consumer.consumptionPerDay * 365) / 1000}}"
+                       readonly></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label>-- ODER --</ion-label>
+        </ion-item>
+        <ion-item>
+            <ion-label color="primary" floating>Leistung in Watt</ion-label>
+            <ion-input type="number" name="consumerPower"
+                       [(ngModel)]="consumer.power"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label color="primary" floating>Nutzung pro Tag in Stunden</ion-label>
+            <ion-input type="number" name="consumerConsumptionPerDay"
+                       [(ngModel)]="consumer.consumptionPerDay"></ion-input>
+        </ion-item>
+        <br/>
+        <button ion-button block [color]="consumer.name && consumer.category && consumer.yearConsumption ? 'green' : 'grey'" type="submit">Erfassen</button>
+    </form>
+</ion-content>

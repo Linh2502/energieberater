@@ -1,0 +1,68 @@
+[
+    {
+        "id": "achievement_1",
+        "name": "Quest-",
+        "level": [
+            {
+                "name": "Neuling",
+                "requirement": 0
+            },
+            {
+                "name": "Anfänger",
+                "requirement": 2
+            },
+            {
+                "name": "Fortgeschrittener",
+                "requirement": 5
+            },
+            {
+                "name": "Experte",
+                "requirement": 10
+            }
+        ]
+    },
+    {
+        "id": "achievement_2",
+        "name": "Energieberater-",
+        "level": [
+            {
+                "name": "Neuling",
+                "requirement": 0
+            },
+            {
+                "name": "Anfänger",
+                "requirement": 1
+            },
+            {
+                "name": "Fortgeschrittener",
+                "requirement": 2
+            },
+            {
+                "name": "Experte",
+                "requirement": 4
+            }
+        ]
+    },
+    {
+        "id": "achievement_3",
+        "name": "Verbraucheranalyst-",
+        "level": [
+            {
+                "name": "Neuling",
+                "requirement": 0
+            },
+            {
+                "name": "Anfänger",
+                "requirement": 5
+            },
+            {
+                "name": "Fortgeschrittener",
+                "requirement": 10
+            },
+            {
+                "name": "Experte",
+                "requirement": 20
+            }
+        ]
+    }
+]

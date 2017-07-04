@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Die wirksamsten Stromspar-Tipps",
+        "list":
+            [
+                {
+                    "title": "Automatisch Standby abschalten",
+                    "description": "In Haushalten hängen oft mehrere elektronische Geräte zusammen an einer Steckdose wie etwa Computer mit Monitor, Scanner, Drucker, Lautsprecherboxen oder auch Hi-Fi-Anlagen. Dort kann der Einsatz von automatischen, so genannten Master-Slave-Steckdosenleisten sehr sinnvoll sein. Schaltet man das Hauptgerät (den Master) aus, zum Beispiel den Computer, trennt die Steckdosenleiste alle anderen angeschlossenen Geräte (die Slaves) vollständig vom Stromnetz."
+                },
+                {
+                    "title": "Effizient beleuchten",
+                    "description": "Wo Lampen im Schnitt eine Stunde und länger täglich leuchten, macht sich der Einsatz moderner Leuchtmittel schnell bezahlt. Tauscht man nur an diesen Stellen Glüh- und Halogenlampen gegen sparsame Energiespar- oder LED-Lampen aus, bleiben die Ausgaben überschaubar."
+                },
+                {
+                    "title": "Heizungspumpe vorzeitig austauschen",
+                    "description": "In jeder Heizungsanlage transportiert die Umwälzpumpe das heiße Wasser vom Heizkessel zu den Heizkörpern. In mehr als 80 Prozent der Anlagen sind veraltete oder überdimensionierte Pumpen eingesetzt, die unnötig viel Strom benötigen."
+                },
+                {
+                    "title": "Durchlauferhitzer statt Warmwasserspeicher nutzen",
+                    "description": "Warmwasserspeicher sorgen für eine konstante Temperatur des gespeicherten Wassers und – womöglich für hohe Stromrechnungen. Denn sofern man sie nicht abschaltet, brauchen sie auch dann Strom, wenn kein warmes Wasser benötigt wird."
+                },
+                {
+                    "title": "Alte Kühl- und Gefriergeräte austauschen",
+                    "description": "Auch wenn der alte Kühlschrank oder die alte Kühltruhe noch „gut“ funktioniert, lohnt es sich, deren Stromverbrauch kritisch zu prüfen und mit dem von sparsamen Neugeräten zu vergleichen."
+                },
+                {
+                    "title": "Gerätegröße dem Bedarf anpassen",
+                    "description": "Große Kühlgeräte verleiten nicht nur dazu, zu viel einzukaufen. Sie benötigen auch mehr Strom als kleinere Geräte. Das macht sich gerade bei Geräten wie Kühlschränken bemerkbar, die rund ums Jahr in Betrieb sind."
+                },
+                {
+                    "title": "Alte Spülmaschinen auswechseln",
+                    "description": "30 Prozent Einsparung sind beim jährlichen Stromverbrauch fürs Spülen möglich, wenn Sie ein 10 Jahre altes Gerät gegen ein effizientes Neugerät austauschen."
+                },
+                {
+                    "title": "Alte Waschmaschinen und Trockner ersetzen",
+                    "description": "Schon gegenüber einer Waschmaschine der Energieeffizienzklasse A können Sie mit einem besonders effizienten Neugerät über 30 Prozent der jährlichen Stromkosten fürs Waschen sparen."
+                },
+                {
+                    "title": "Bei Fernsehern auf Effizienz achten",
+                    "description": "Steht eine Neuanschaffung an, etwa weil der alte Fernseher kaputt gegangen ist? Dann lohnt es sich, auf die Energieeffizienzklasse sowie die Angabe zum jährlichen Stromverbrauch zu achten."
+                },
+                {
+                    "title": "Beim Computerkauf auf passende Leistung achten",
+                    "description": "Benötigen Sie einen neuen Computer, sollten Sie beachten, dass ein Computer, der wesentlich mehr Leistung bietet als benötigt wird, auch wesentlich mehr Energie verbraucht."
+                }
+            ]
+    },
+    {
+        "name": "Die kostengünstigsten Stromspar-Tipps",
+        "list":
+            [
+                {
+                    "title": "Stand-by einfach abschalten",
+                    "description": "Computer, Deckenfluter, Espressomaschine und etliche weitere Geräte können Strom verbrauchen, ohne dass sie eingeschaltet oder konkret in Benutzung sind. Sie befinden sich im Bereitschaftsmodus oder sind nur scheinbar abgeschaltet („Schein-Aus“). Manche haben gar keinen Netzschalter oder er ist nur schwer zugänglich."
+                },
+                {
+                    "title": "Wasserkocher verwenden",
+                    "description": "Der kocht zwar auch nur mit Wasser, benötigt dafür aber gegenüber einem Elektroherd deutlich weniger Strom. Das gilt vor allem für Herde mit Gussplatten, aber auch für Glaskeramik-Kochfelder."
+                },
+                {
+                    "title": "Stromverbrauch prüfen",
+                    "description": "Es spart zwar noch nicht direkt Strom und damit Geld, wenn man weiß, ob der eigene Stromverbrauch hoch, mittel oder niedrig ist. Aber es kann sehr zum Stromsparen motivieren, zu erfahren, dass vergleichbare Haushalte mit deutlich weniger Energie auskommen."
+                },
+                {
+                    "title": "Durchflussbegrenzer einbauen",
+                    "description": "Warmwasser mit Strom zu erzeugen ist teuer. Umso mehr kann man aber sparen, wenn ein Haushalt auf elektrische Warmwasserspeicher oder Durchlauferhitzer angewiesen ist."
+                },
+                {
+                    "title": "Heizungspumpe niedriger stellen",
+                    "description": "Viele der eingesetzten Heizungsumwälzpumpen sind von ihrer Leistung überdimensioniert und verbrauchen daher unnötig viel Strom. Häufig kann man deren Leistung mit einem eingebauten Schalter verändern."
+                },
+                {
+                    "title": "Warmwasserpumpe zeitlich regeln",
+                    "description": "Nicht nur Mehrfamilienhäuser, sondern auch große Einfamilienhäuser haben oft Zirkulationsleitungen für Warmwasser: Eine Zirkulationspumpe lässt ständig das heiße Wasser zwischen dem Heizkessel und den Zapfstellen zirkulieren. Das sorgt dafür, dass aus Dusche und Wasserhahn sofort heißes Wasser kommt."
+                },
+                {
+                    "title": "Warmwasserspeicher abschalten",
+                    "description": "Vor allem dort, wo noch alte Untertischgeräte zur Warmwasserspeicherung angebracht sind, ist es sinnvoll, den Bedarf an heißem Wasser zu prüfen: Wie oft und zu welchen Zeiten wird überhaupt Warmwasser benötigt?"
+                },
+                {
+                    "title": "Energiesparoptionen des Computers nutzen",
+                    "description": "Jeder Computer ermöglicht es, über die Systemsteuerung die Energieoptionen zu ändern."
+                },
+                {
+                    "title": "Computer möglichst lange behalten",
+                    "description": "Aus Umweltgesichtspunkten ist es sinnvoll, einen Computer so lange wie möglich zu nutzen. Denn anders als etwa bei Kühlschränken und Waschmaschinen verursacht beim PC die Herstellung und nicht die Nutzung den Großteil der Umweltbelastungen."
+                },
+                {
+                    "title": "Stromtarif oder -anbieter wechseln",
+                    "description": "Die Strompreise unterscheiden sich nicht nur bundesweit erheblich, sondern auch zwischen den am Ort angebotenen Stromprodukten. Bisweilen bietet schon der eigene Stromversorger mehrere deutlich unterschiedliche Tarife an."
+                }
+            ]
+    },
+    {
+        "name": "Die schnellsten Stromspar-Tipps",
+        "list":
+            [
+                {
+                    "title": "Mit Deckel kochen",
+                    "description": "Jedes Töpfchen hat leider nicht immer sein Deckelchen, auch wenn sich das beim Kochen bezahlt machen würde. Zugedeckt geht es beim Kochen mit Topf und Pfanne deutlich schneller und mit weniger Energie – bis zu 30 Prozent weniger Strom benötigt ein Elektro-Herd dann."
+                },
+                {
+                    "title": "Ohne Vorheizen backen – mit Restwärme kochen",
+                    "description": "Die wenigsten Gerichte müssen wirklich in den bereits vorgewärmten Backofen. In aller Regel reicht es aus, den Backofen erst anzuschalten, wenn Auflauf, Pizza oder Kuchen hineinkommen."
+                },
+                {
+                    "title": "Waschmaschine voll beladen",
+                    "description": "Die Zahl der jährlichen Waschgänge lässt sich deutlich verringern, wenn man die Waschmaschine bis zu ihrer maximalen Zuladung mit Wäsche füllt."
+                },
+                {
+                    "title": "Niedrige Waschtemperatur wählen",
+                    "description": "Moderne Waschmittel erlauben deutlich geringere Waschtemperaturen als früher. Kochwaschprogramme bei 90 Grad sind nicht mehr notwendig. Selbst bei stark verschmutzter Wäsche reichen 60 Grad, um die Wäsche hygienisch sauber zu bekommen."
+                },
+                {
+                    "title": "Ökoprogramme nutzen",
+                    "description": "Den sparsamsten Verbrauch haben Wasch- und Geschirrspülmaschinen im Spar- oder Ökoprogramm."
+                },
+                {
+                    "title": "Wäschetrockner nicht im Sommer nutzen",
+                    "description": "Mit Wind und Sonne trocknet Wäsche schnell und kostenlos. Wer Platz für Wäscheständer, -spinne oder -leine an der frischen Luft oder in unbeheizten und gut belüfteten Räumen hat, kann so leicht den Stromverbrauch drosseln."
+                },
+                {
+                    "title": "Kühltemperatur optimieren und Abstand halten",
+                    "description": "In Kühlschränken genügen sieben Grad Celsius, um Lebensmittel und Getränke ausreichend zu kühlen. Bei Gefriergeräten sind es minus 18 Grad."
+                },
+                {
+                    "title": "Extra-Kühlgeräte stilllegen",
+                    "description": "Gefriertruhen und -schränke oder Zweitkühlschränke im Keller laufen oft das ganze Jahr über, sind aber vielleicht entbehrlich. Oft sind dort sogar völlig veraltete oder überdimensionierte Geräte im Einsatz, die unbemerkt große Beiträge zur hohen Stromrechnung leisten."
+                },
+                {
+                    "title": "Helligkeit am Fernseher verringern",
+                    "description": "Je größer der Fernseher, desto höher ist in der Regel sein Stromverbrauch. Gerade bei großen Geräten kann man mit etwas weniger Helligkeit und Kontrast Strom sparen, ohne auf ein gutes Bild verzichten zu müssen."
+                },
+                {
+                    "title": "sWarmwasserspeichertemperatur senken",
+                    "description": "Die Temperatur von Warmwasserspeichern für Küche oder Bad ist oft unnötig hoch eingestellt. 60 Grad Celsius reichen vollkommen, ohne Einbußen beim Komfort zu haben."
+                }
+            ]
+    }
+]

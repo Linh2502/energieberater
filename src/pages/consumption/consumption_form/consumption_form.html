@@ -1,0 +1,55 @@
+﻿<ion-header>
+    <ion-navbar>
+        <ion-title *ngIf="mode === 'create'">Haushalt erfassen</ion-title>
+        <ion-title *ngIf="mode === 'edit'">Haushalt bearbeiten</ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only tappable (click)="dismiss()">
+                <ion-icon name="close"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+<ion-content>
+    <form (ngSubmit)="submitForm()">
+        <ion-item>
+            <ion-label color="primary" floating>Name</ion-label>
+            <ion-input type="text" name="houseHoldName" [(ngModel)]="household.name"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label color="primary" floating>Gebäudetyp</ion-label>
+            <ion-select [(ngModel)]="household.type" name="houseHoldType">
+                <ion-option value="Ein- oder Zweifamilienhaus">Ein- oder Zweifamilienhaus</ion-option>
+                <ion-option value="Mehrfamilienhaus">Mehrfamilienhaus</ion-option>
+            </ion-select>
+        </ion-item>
+        <ion-item>
+            <ion-label color="primary" floating>Warmwasser</ion-label>
+            <ion-select [(ngModel)]="household.water" name="houseHoldWater">
+                <ion-option value="ohne Strom">ohne Strom</ion-option>
+                <ion-option value="mit Strom">mit Strom</ion-option>
+            </ion-select>
+        </ion-item>
+        <ion-item>
+            <ion-label color="primary" floating>Anzahl Personen</ion-label>
+            <ion-input type="number" name="houseHoldNumber" [(ngModel)]="household.number"
+                       (ngModelChange)="household.number = convertToNumber($event)"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label color="primary" floating>Jahresstromverbrauch in kWh</ion-label>
+            <ion-input type="number" name="houseHoldYearConsumption" [(ngModel)]="household.yearConsumption"
+                       (ngModelChange)="household.yearConsumption = convertToNumber($event)"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label color="primary" floating>Strompreis pro kWh</ion-label>
+            <ion-input type="number" name="houseHoldElectricityPrice" [(ngModel)]="household.electricityPrice"
+                       (ngModelChange)="household.electricityPrice = convertToNumber($event)"></ion-input>
+        </ion-item>
+        <br/>
+        <button ion-button block [color]="checkHouseHoldValues() ? 'green' : 'grey'" type="submit"
+                *ngIf="mode === 'create'">Haushalt hinzufügen
+        </button>
+        <button ion-button block [color]="checkHouseHoldValues() ? 'green' : 'grey'" type="submit"
+                *ngIf="mode === 'edit'">Haushalt bearbeiten
+        </button>
+    </form>
+</ion-content>

@@ -1,0 +1,139 @@
+﻿<ion-header>
+    <ion-navbar>
+        <ion-title text-center>Verbrauch</ion-title>
+    </ion-navbar>
+</ion-header>
+<ion-content>
+    <ion-list>
+        <ion-row *ngFor="let item of households; let i = index">
+            <ion-col col-12>
+                <ion-item style="padding: 0">
+                    <button full style="background: white" (click)="selectHouseHold(item)">
+                        {{item.name}}
+                    </button>
+                    <button icon-only style="background: white" item-end (click)="editHouseHold(item, i)">
+                        <ion-icon name="create"></ion-icon>
+                    </button>
+                    <button icon-only style="background: white" item-end (click)="deleteHouseHold(item, i)">
+                        <ion-icon name="remove-circle"></ion-icon>
+                    </button>
+                </ion-item>
+            </ion-col>
+            <ion-grid [hidden]="!item.isSelected" style="font-size: 10px">
+                <ion-row>
+                    <ion-col col-6>
+                        <ion-row>
+                            <ion-col col-12>
+                                Gebäudetyp:
+                            </ion-col>
+                            <ion-col col-12>
+                                {{item.type}}
+                            </ion-col>
+                        </ion-row>
+                    </ion-col>
+                    <ion-col col-6>
+                        <ion-row>
+                            <ion-col col-12>
+                                Warmwasser:
+                            </ion-col>
+                            <ion-col col-12>
+                                {{item.water}}
+                            </ion-col>
+                        </ion-row>
+                    </ion-col>
+                </ion-row>
+                <ion-row>
+                    <ion-col col-6>
+                        <ion-row>
+                            <ion-col col-12>
+                                Anzahl Personen:
+                            </ion-col>
+                            <ion-col col-12>
+                                {{item.number}}
+                            </ion-col>
+                        </ion-row>
+                    </ion-col>
+                    <ion-col col-6>
+                        <ion-row>
+                            <ion-col col-12>
+                                Jahresstromverbrauch in kWh:
+                            </ion-col>
+                            <ion-col col-12>
+                                {{item.yearConsumption}}
+                            </ion-col>
+                        </ion-row>
+                    </ion-col>
+                </ion-row>
+                <ion-row>
+                    <ion-col col-6>
+                        <ion-row>
+                            <ion-col col-12>
+                                Strompreis pro kWh:
+                            </ion-col>
+                            <ion-col col-12>
+                                {{item.electricityPrice}}
+                            </ion-col>
+                        </ion-row>
+                    </ion-col>
+                    <ion-col col-6>
+                        <ion-row>
+                            <ion-col col-12>
+                                Jahresstrompreis in €
+                            </ion-col>
+                            <ion-col col-12>
+                                {{item.electricityPrice * item.yearConsumption}}
+                            </ion-col>
+                        </ion-row>
+                    </ion-col>
+                </ion-row>
+                <ion-row style="border-top: 1px solid #000000"></ion-row>
+                <ion-row *ngFor="let consumer of item.consumers; let j = index" style="border-top: 1px dotted lightgray">
+                    <ion-col col-6>
+                        <ion-row>
+                            <ion-col col-12>
+                                Verbrauchername:
+                            </ion-col>
+                            <ion-col col-12>
+                                {{consumer.name}}
+                            </ion-col>
+                        </ion-row>
+                    </ion-col>
+                    <ion-col col-6>
+                        <ion-row>
+                            <ion-col col-12>
+                                Jahresstromverbrauch in kWh:
+                            </ion-col>
+                            <ion-col col-12>
+                                <ion-row>
+                                    <ion-col col-8 no-padding>
+                                        {{consumer.yearConsumption}}
+                                    </ion-col>
+                                    <ion-col col-4 no-padding>
+                                        <ion-row>
+                                            <button icon-only style="background: white" item-end (click)="editConsumer(item, consumer, j)">
+                                                <ion-icon name="create" style="font-size: 1.3em"></ion-icon>
+                                            </button>
+                                            <button icon-only style="background: white" item-end (click)="deleteConsumer(item, j)">
+                                                <ion-icon name="remove-circle" style="font-size: 1.3em"></ion-icon>
+                                            </button>
+                                        </ion-row>
+                                    </ion-col>
+                                </ion-row>
+                            </ion-col>
+                        </ion-row>
+                    </ion-col>
+                </ion-row>
+                <ion-row>
+                    <button ion-button tappable full color="secondary" (click)="addConsumer(item, i)">
+                        Verbraucher hinzufügen
+                    </button>
+                </ion-row>
+            </ion-grid>
+        </ion-row>
+    </ion-list>
+</ion-content>
+<ion-footer>
+    <ion-toolbar *ngIf="!isInDeleteMode">
+        <button ion-button full tappable (click)="createHouseHold(households.length)">Haushalt erfassen</button>
+    </ion-toolbar>
+</ion-footer>

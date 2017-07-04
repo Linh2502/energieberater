@@ -1,0 +1,19 @@
+<ion-content>
+    <ion-list *ngFor="let lesson of lessons">
+        <ion-list-header (click)="showLessons(lesson)">
+            {{lesson.name}}
+        </ion-list-header>
+        <ion-row [hidden]="lesson.hidden" *ngFor="let element of lesson.list; let i = index">
+            <ion-item text-wrap>
+                <div>{{i+1}}. {{element.title}}</div>
+            </ion-item>
+            <ion-col>
+                <ion-item text-wrap style="border-bottom: 1px solid #000000">
+                    <ion-label>
+                        <div>{{element.description}}</div>
+                    </ion-label>
+                </ion-item>
+            </ion-col>
+        </ion-row>
+    </ion-list>
+</ion-content>
